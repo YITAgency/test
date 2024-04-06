@@ -1,0 +1,45 @@
+/*MOBILE VERSION  */
+
+@media  only screen and (max-width: 600px)
+{
+    .page
+    {
+        width: 100%;
+    }
+ 
+
+    .hire-me-text{
+        font-size: 60px;
+        
+    }
+    .email-subscription
+    {
+    
+        margin-left: 0px;
+        width: 270px;
+        height: 40px;
+        border-width: 0.3px;
+       
+        font-family: Arial;
+        border-radius: 3px;
+
+    }
+
+
+
+
+
+
+
+}
+@media only screen and (max-width: 920px) and (orientation : landscape)
+
+{
+    .page
+    {
+        width: 100%;
+    }
+ 
+
+
+}
